@@ -13,4 +13,4 @@
  [typo: EMPEHMERAL to EPHEMERAL](https://github.com/FrankC01/pysui/pull/345)  
  [Fix/improve build scripts](https://github.com/FrankC01/pysui/pull/353)  
  [fix: remove duplicate gql dependency](https://github.com/FrankC01/pysui/pull/356)  
- [security: Upgrade SSL protocol configuration with conditional PROTOCO](https://github.com/FrankC01/pysui/pull/355)  
+ [security: Upgrade SSL protocol configuration with conditional PROTOCO](https://github.com/FrankC01/pysui/pull/355)
