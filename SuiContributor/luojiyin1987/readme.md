@@ -16,4 +16,5 @@
  [security: Upgrade SSL protocol configuration with conditional PROTOCO](https://github.com/FrankC01/pysui/pull/355)
 
  ### 10 代码贡献
- [fix: resolve Claude Code Review OIDC authentication issues](https://github.com/MystenLabs/deepbookv3/pull/582)  
+ [fix: resolve Claude Code Review OIDC authentication issues](https://github.com/MystenLabs/deepbookv3/pull/582)   
+ [feat: update github actions](https://github.com/MystenLabs/sui-rust-sdk/pull/163)  
