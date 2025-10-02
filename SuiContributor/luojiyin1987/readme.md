@@ -18,3 +18,4 @@
  ### 10 代码贡献
  [fix: resolve Claude Code Review OIDC authentication issues](https://github.com/MystenLabs/deepbookv3/pull/582)   
  [feat: update github actions](https://github.com/MystenLabs/sui-rust-sdk/pull/163)  
+ [Update GitHub Actions to latest versions](https://github.com/MystenLabs/zklogin-verifier/pull/4)  
