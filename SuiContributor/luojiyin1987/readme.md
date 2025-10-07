@@ -19,4 +19,5 @@
  [fix: resolve Claude Code Review OIDC authentication issues](https://github.com/MystenLabs/deepbookv3/pull/582)  
  [feat: update github actions](https://github.com/MystenLabs/sui-rust-sdk/pull/163)  
  [zklogin-verifier Update GitHub Actions to latest versions](https://github.com/MystenLabs/zklogin-verifier/pull/4)  
- [guardians Update GitHub Actions to latest versions](https://github.com/suiet/guardians/pull/16)   
+ [guardians Update GitHub Actions to latest versions](https://github.com/suiet/guardians/pull/16)  
+ [feat: Add security scanning tools (Bandit + pip-audit)](https://github.com/FrankC01/pysui/pull/359) 
